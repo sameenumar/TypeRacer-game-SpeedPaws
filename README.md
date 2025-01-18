@@ -47,4 +47,4 @@
 ## 🔗 **Links**
 
 - **GitHub Repository**: https://github.com/sameenumar/TypeRacer-game-SpeedPaws
-- **Documentation**: (Optional if you want to link to detailed documentation)
+
