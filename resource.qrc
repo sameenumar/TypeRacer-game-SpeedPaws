@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>imgs/1background.png</file>
+        <file>imgs/back.png</file>
+        <file>imgs/background2.png</file>
+        <file>imgs/car1.png</file>
+        <file>imgs/easy.png</file>
+        <file>imgs/hard.png</file>
+        <file>imgs/medium.png</file>
+        <file>imgs/mode.png</file>
+        <file>imgs/multiplayer.png</file>
+        <file>imgs/practice.png</file>
+        <file>imgs/racetrack.png</file>
+        <file>imgs/replay.png</file>
+        <file>imgs/stats.png</file>
+        <file>imgs/connect_button.png</file>
+        <file>imgs/accept_button.png</file>
+        <file>imgs/decline_button.png</file>
+        <file>imgs/blank_background.png</file>
+        <file>imgs/challenge_button.png</file>
+        <file>imgs/new_race.png</file>
+        <file>imgs/result_background.png</file>
+        <file>imgs/back_btn.png</file>
+        <file>imgs/SpeedPaws_logo.png</file>
+        <file>imgs/result_bg.png</file>
+        <file>imgs/icon.png</file>
+    </qresource>
+    <qresource prefix="/para">
+        <file>imgs/blank_background.png</file>
+        <file>imgs/challenge_button.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>paragraphs/easy.txt</file>
+        <file>paragraphs/hard.txt</file>
+        <file>paragraphs/medium.txt</file>
+    </qresource>
+</RCC>
